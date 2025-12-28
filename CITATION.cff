@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "COSA: Community Solar Adoption model"
+message: >-
+  "If you use this package, please cite the corresponding manuscript in Energy Policy."
+repository: https://github.com/anunezji/COSA
+license: MIT
+journal: Energy Policy
+doi: 10.1016/j.enpol.2023.113477
+authors:
+  - given-names: Alejandro
+    family-names: Nuñez-Jimenez
+    orcid: 'https://orcid.org/0000-0002-1505-9772'
+  - given-names: Prakhar
+    family-names: Mehta
+    orcid: 'https://orcid.org/0000-0002-2321-0532'
+  - given-names: Danielle
+    family-names: Griego
+    orcid: 'https://orcid.org/0000-0002-2887-3386'
