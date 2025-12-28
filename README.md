@@ -1,9 +1,6 @@
 # COSA: Community Solar Adoption Model
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
-  <img src="https://img.shields.io/badge/mesa-ABM-green.svg" alt="Mesa ABM">
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License">
+<p align="left">
   <a href="https://doi.org/10.1016/j.enpol.2023.113477"><img src="https://img.shields.io/badge/DOI-10.1016/j.enpol.2023.113477-blue" alt="DOI"></a>
 </p>
 
